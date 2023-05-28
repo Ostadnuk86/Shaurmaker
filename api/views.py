@@ -4,4 +4,4 @@ from django.shortcuts import render
 # Create your views here.
 
 def test(request):
-    return HttpResponse('работает')
+    return render(request, 'api/test.html')
