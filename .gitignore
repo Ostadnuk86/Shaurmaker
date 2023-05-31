@@ -4,3 +4,4 @@ db.sqlite3
 Shaurmaker/settings.py
 api/migrations
 media
+.ssh
